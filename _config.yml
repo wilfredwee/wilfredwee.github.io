@@ -1,0 +1,42 @@
+# Dependencies
+# Required by Github Pages
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tech, Question Mark?
+tagline:          'Are we really talking tech here?'
+description:      'We talk tech, and maybe some other stuff.'
+url:              http://wilfredwee.github.io
+baseurl:          /
+
+author:
+  name:           'Wilfred Wee'
+  url:            https://github.com/wilfredwee
+
+paginate:         5
+
+github:
+  repo:           https://github.com/wilfredwee/wilfredwee.github.io
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+
+# Github Pages Requires
+lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+highlighter: rouge
+gist:
+ noscript: false
+
+# Github Pages Defaults
+kramdown:
+   input: GFM
+   hard_wrap: false
+
