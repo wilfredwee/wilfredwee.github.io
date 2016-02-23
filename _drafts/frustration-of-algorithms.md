@@ -1,0 +1,12 @@
+# Dealing with algorithms is immensely frustrating.
+- Solving algorithmic problems is dominated mostly by periods of inactivity of just sitting there doing nothing, followed by revelations that mostly do not solve the problem, until epiphany arrives and the problem is finally able to be solved.
+- Remember doing algorithms assignment of only 5 questions but took more than 5 hours to solve.
+- Knowing technique is useful, but often you cannot escape just thinking about it.
+- Period of inactivity is just immensely frustrating because it feels very unproductive. You're not doing anything.
+- But have to recognize that those times of inactivity is building understanding of very abstract things. Hard to grasp, but it is progression.
+- Contrast this with progression of software dev. Hit a roadblock, there's always immediately another way of trying things. At worst, doesn't work out, so delete code and try again. There's always a sense of constant progress, tangible.
+- Even in designing/architecuring - there's always a solution, even if not optimal.
+- Parallel to job interview - where if you don't 'get' it, you seem like a really stupid person. You need that epiphany to appear brilliant, or just be lucky enough to get an algorithmic problem that's close enough to things you've seen before. (maybe show link to article on technical interview being arbitrary)
+- Sometimes you just need to sleep over it and think about it tomorrow.
+- Often, algorithmic problems either test your brilliance or your experience in dealing with problems very similar.
+- I can see how it tests your problem skill at a high level, but often the questions are very difficult for a reasonably intelligent person to solve without the close experience mentioned.
