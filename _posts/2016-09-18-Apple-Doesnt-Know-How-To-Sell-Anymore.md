@@ -17,16 +17,16 @@ To make my point, I'll go through how Tim Cook and Phil Schiller sold the iPhone
  
  You can watch the keynote yourself through the VOD uploaded by Apple [here](https://www.youtube.com/watch?v=NS0txu_Kzl8).
 
- ## Initial introduction
- Cook literally went from talking about the various features of iOS 10 straight to iPhone 7, hiding behind a shadow, on a slide. Now I understand that iPhone 7's design is not much different from the 6/6S, but that has never stopped Apple in the past to sell the heck out of it.
+## Initial Introduction
+Cook literally went from talking about the various features of iOS 10 straight to iPhone 7, hiding behind a shadow, on a slide. Now I understand that iPhone 7's design is not much different from the 6/6S, but that has never stopped Apple in the past to sell the heck out of it.
 
- It's very unusual for Apple to sell a new iPhone without talking up the previous iPhone, so that the audience has a *baseline of comparison*. Watch the [iPhone 3G keynote](https://www.youtube.com/watch?v=r7fVWjgxRwk), [iPhone 3GS keynote](https://www.youtube.com/watch?v=q2RuEuAuloA), [iPhone 4 keynote](https://www.youtube.com/watch?v=z__jxoczNWc). [4S keynote](https://www.youtube.com/watch?v=hSJqPul24DI). The list can go on. Notice how they always talk about how the iPhone changed the world? The best phone ever? This is a classic marketing technique, you talk about how great your product is, and tell your customers that you've created something even better. Imagine how much better your life will be if the best thing *ever* is now going to be even better! 
+It's very unusual for Apple to sell a new iPhone without talking up the previous iPhone, so that the audience has a *baseline of comparison*. Watch the [iPhone 3G keynote](https://www.youtube.com/watch?v=r7fVWjgxRwk), [iPhone 3GS keynote](https://www.youtube.com/watch?v=q2RuEuAuloA), [iPhone 4 keynote](https://www.youtube.com/watch?v=z__jxoczNWc). [4S keynote](https://www.youtube.com/watch?v=hSJqPul24DI). The list can go on. Notice how they always talk about how the iPhone changed the world? The best phone ever? This is a classic marketing technique, you talk about how great your product is, and tell your customers that you've created something even better. Imagine how much better your life will be if the best thing *ever* is now going to be even better! 
  
- This is a theme that will be repeated throughout the blog post, of how Jobs doesn't just tell how his new product is the best, most innovative, most powerful, coolest thing ever. These are the things that Samsung, HTC, Sony does. No, he tells a compelling story of why his product is *better*.
+This is a theme that will be repeated throughout the blog post, of how Jobs doesn't just tell how his new product is the best, most innovative, most powerful, coolest thing ever. These are the things that Samsung, HTC, Sony does. No, he tells a compelling story of why his product is *better*.
 
- Ok, now let's go back to the iPhone 7 keynote. Right after briefly introducing the new iPhone, Cook then lets Johnny Ive work his magic through his British accent in a video detailing the iPhone's manufacturing process. I have no problems with this.
+Ok, now let's go back to the iPhone 7 keynote. Right after briefly introducing the new iPhone, Cook then lets Johnny Ive work his magic through his British accent in a video detailing the iPhone's manufacturing process. I have no problems with this.
 
- Then, it's Schiller's turn to tell us 10 things about the iPhone.
+Then, it's Schiller's turn to tell us 10 things about the iPhone.
 
 ## 1 - Design
 Given that the 7 is very similar to 6S in design, I like how Schiller went ahead and focused the selling on the new Black and Jet Black colors. Overall, I have nothing negative to say about this part. Classic Apple selling.
