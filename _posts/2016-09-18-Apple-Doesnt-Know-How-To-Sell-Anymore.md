@@ -115,8 +115,8 @@ Obviously, there are other traits that Jobs possessed which made him such an adm
 
 For the TL;DR readers, here are some interesting compare and contrast video links (with timestamps)
 
-1. Schiller vs Jobs selling camera: https://youtu.be/NS0txu_Kzl8?t=3708
-vs https://youtu.be/z__jxoczNWc?t=1309 
-2. iPhone's reveal vs 7S telephoto reveal: https://youtu.be/NS0txu_Kzl8?t=4298 vs https://www.youtube.com/watch?v=x7qPAY9JqE4
-3. 'Courage' vs Macbook Air's ommission of DVD Drive: https://youtu.be/NS0txu_Kzl8?t=4801 vs https://youtu.be/1CgAKBf4bbU?t=3675
-4. Wireless headphones suck now vs traditional phone keyboard sucked then: https://youtu.be/NS0txu_Kzl8?t=5033 vs https://youtu.be/x7qPAY9JqE4?t=290
+1. Schiller vs Jobs selling camera: [https://youtu.be/NS0txu_Kzl8?t=3708](https://youtu.be/NS0txu_Kzl8?t=3708)
+vs [https://youtu.be/z__jxoczNWc?t=1309](https://youtu.be/z__jxoczNWc?t=1309) 
+2. iPhone's reveal vs 7S telephoto reveal: [https://youtu.be/NS0txu_Kzl8?t=4298](https://youtu.be/NS0txu_Kzl8?t=4298) vs [https://www.youtube.com/watch?v=x7qPAY9JqE4](https://www.youtube.com/watch?v=x7qPAY9JqE4)
+3. 'Courage' vs Macbook Air's ommission of DVD Drive: [https://youtu.be/NS0txu_Kzl8?t=4801](https://youtu.be/NS0txu_Kzl8?t=4801) vs [https://youtu.be/1CgAKBf4bbU?t=3675](https://youtu.be/1CgAKBf4bbU?t=3675)
+4. Wireless headphones suck now vs traditional phone keyboard sucked then: [https://youtu.be/NS0txu_Kzl8?t=5033](https://youtu.be/NS0txu_Kzl8?t=5033) vs [https://youtu.be/x7qPAY9JqE4?t=290](https://youtu.be/x7qPAY9JqE4?t=290)
