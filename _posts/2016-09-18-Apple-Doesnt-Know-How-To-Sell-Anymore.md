@@ -3,7 +3,7 @@ layout: post
 title: Apple Doesn't Know How to Sell Anymore
 ---
 
-TL;DR? Jump to Conclusion (Just scroll down, I haven't figured out section links in Jekyll yet =\)
+TL;DR? Jump to Conclusion (Just scroll down, I haven't figured out section links in Jekyll yet =\\)
 
 About a week back, Apple introduced the iPhone 7 with the usual keynote which was conveniently live streamed and available to watch online, cross platform.
 
@@ -106,6 +106,7 @@ It's just small things like this that really hooks in the audience and makes the
 
 ## [Conclusion/TL;DR](#Conclusion)
 Apple's keynotes have been very sloppy lately, and they've never really picked up the essence of Jobs' skill in convincing the audience that his new product is worth paying for. Some of the main principles that Jobs used but is absent or poorly done in today's Apple includes:
+
 * Always compare your new product to old ones and the competitors. And make a compelling case of why it is *better*, not just the most technologically advanced, most innovative, best thing ever.
 * Relate to the audience of tangible things that they do when interacting with your product.
 * Never make lame excuses.
