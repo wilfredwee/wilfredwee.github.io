@@ -100,7 +100,7 @@ Then, he'll present the solution: The 2 low-power core.
 
 It's just small things like this that really hooks in the audience and makes them *believe* that all these new stuff are not only good and new, but something **worth paying for**.
 
-## Conclusion
+## [Conclusion](#Conclusion)
 Apple's keynotes have been very sloppy lately, and they've never really picked up the essence of Jobs' skill in convincing the audience that his new product is worth paying for. Some of the main principles that Jobs used but is absent or poorly done in today's Apple includes:
 * Always compare your new product to old ones and the competitors. And make a compelling case of why it is *better*, not just the most technologically advanced, most innovative, best thing ever.
 * Relate to the audience of tangible things that they do when interacting with your product.
