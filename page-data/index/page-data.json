@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/entry/test-blog-entry"},"frontmatter":{"title":"Sweet Pandas Eating Sweets","date":"2017-08-10"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
