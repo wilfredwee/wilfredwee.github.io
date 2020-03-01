@@ -12,7 +12,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <h1>Front Page</h1>
+      <h1>Welcome</h1>
       <p>Website is still under development. Slow progress.</p>
       <p>
         I'll be focusing more on writing content, and finishing my current
