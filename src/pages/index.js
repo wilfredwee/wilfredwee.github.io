@@ -26,7 +26,7 @@ const IndexPage = ({ data }) => {
           },
         }) => {
           return (
-            <ul>
+            <ul key={slug}>
               <Link to={slug}>{`${date}: ${title}`}</Link>
             </ul>
           )

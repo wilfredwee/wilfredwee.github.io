@@ -5,6 +5,10 @@
   padding: 1.5rem;
 }
 
+body {
+  font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
+}
+
 :root {
   --dark-bg-color: rgba(42, 42, 46, 1);
   --dark-font-color: rgba(249, 249, 250, 0.8);
