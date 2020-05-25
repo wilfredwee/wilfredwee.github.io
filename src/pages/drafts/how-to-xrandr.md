@@ -70,7 +70,7 @@ Physical:  `3840x2160` (never changes)\
 Virtual :  **`5760x3240`**\
 Perceived: **`2880x1620`**
 
-*\*\*Small Note:\*\** This means that even though we're only using a 4k monitor, we're actually rendering more resolution than if we had a 5k (`5120x2880`) monitor at 2x scaling! It's advantageous to have a monitor where its resolution is just doubled (per-side) of its usual (non-scaled) comfortable native resolution for you.\
+*\*\*Small Note:\*\** This means that even though we're only using a 4k monitor, we're actually rendering more resolution than if we had a 5k (`5120x2880`) monitor! It's advantageous to have a monitor where its resolution is just doubled (per-side) of its usual (non-scaled) comfortable native resolution for you.\
 e.g. if `2560x1440` without scaling looks good on a 27" monitor for you, the best 'high dpi' resolution will be `5120x2880`. If `1920x1080` looks good on a 24" monitor for you, then `3840x2160` (4k) is the best.\
 In this case, it also means we don't have to spend computer resources to scale the resolution back down to the physical resolution.
 
