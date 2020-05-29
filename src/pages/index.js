@@ -38,7 +38,7 @@ const IndexPage = ({ data }) => {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: { fields: { isDraft: { eq: false } } }) {
       edges {
         node {
           fields {

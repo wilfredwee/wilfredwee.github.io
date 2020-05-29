@@ -40,10 +40,19 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       basePath: `pages/posts`,
       trailingSlash: false,
     })
+
+    const isDraft = getNode(node.parent).relativeDirectory !== "pages/posts"
+
     createNodeField({
       node,
       name: `slug`,
       value: `/entry${slug}`,
+    })
+
+    createNodeField({
+      node,
+      name: `isDraft`,
+      value: isDraft,
     })
   }
 }
