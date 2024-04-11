@@ -11,7 +11,6 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Home" />
       <h1>Welcome</h1>
       <p>Website is still under development. Slow progress.</p>
       <p>
@@ -53,5 +52,7 @@ export const query = graphql`
     }
   }
 `
+
+export const Head = () => <SEO title="Home" />
 
 export default IndexPage
