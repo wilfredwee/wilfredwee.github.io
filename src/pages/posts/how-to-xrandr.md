@@ -108,7 +108,7 @@ So let's put things together in the `xrandr` command now.
 Let's look at the single display case: \
 (Note that a lot of these arguments are not necessary in the single display case, as `--auto` can infer the correct value for you. You just need to supply `--output` and `--scale`)
 
-```
+```bash
 xrandr \
   --output DP-4-OR-WHATEVER-DISPLAY-DEVICE \
   --primary \
@@ -131,7 +131,7 @@ xrandr \
 
 This is where things get interesting.
 
-```
+```bash
 xrandr \
   --output DP-4-OR-WHATEVER-DISPLAY-DEVICE \
   --primary \
