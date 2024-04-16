@@ -9,6 +9,10 @@ const IndexPage = ({ data }) => {
     allMarkdownRemark: { edges: posts },
   } = data
 
+  const filteredPosts = posts.filter(post => {
+    return !post.node.frontmatter.disablePublish;
+  });
+
   return (
     <Layout>
       <h1>Welcome</h1>
@@ -17,7 +21,7 @@ const IndexPage = ({ data }) => {
         I'll be focusing more on writing content, and finishing my current
         project.
       </p>
-      {posts.map(
+      {filteredPosts.map(
         ({
           node: {
             fields: { slug },
@@ -46,6 +50,8 @@ export const query = graphql`
           frontmatter {
             title
             date
+            disablePublish
+            tags
           }
         }
       }

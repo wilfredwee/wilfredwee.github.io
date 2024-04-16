@@ -1,6 +1,8 @@
 ---
 title: "A Personal Examination Of The Last Of Us 2"
 date: "2020-07-05"
+disablePublish: true
+tags: ["personal"]
 ---
 
 SPOILERS AHEAD. Play the game(s) first before reading this post. It will be worth it.

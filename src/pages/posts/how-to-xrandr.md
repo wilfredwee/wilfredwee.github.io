@@ -1,6 +1,7 @@
 ---
 title: "How To Fix Fractional Scaling In Linux - Or, How To Be Good At xrandr"
 date: "2020-05-25"
+tags: ["linux", "guide"]
 ---
 
 **_Note_**: This is not really _linux_ per se, but rather, any DE that uses xrandr. Thus, this is less applicable to Wayland. My experience also mostly revolves around GNOME, and this will cover things that are specific to GNOME as well.

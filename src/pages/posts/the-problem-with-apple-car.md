@@ -1,6 +1,7 @@
 ---
 title: "The problem with Apple Car"
 date: "2021-02-26"
+tags: ["opinion"]
 ---
 
 Rumors have been circulating about a possible Apple Car any day now. I think this is great for the company and car industry, but terrible for the future of transportation.
@@ -82,8 +83,3 @@ But I fear the Apple Car will undo all of this progress. Apple is a juggernaut, 
 An increasing culture of car ownership will just lead to louder voices for better roads and car infrastructure, in expense for much cheaper alternatives. Public transportation and cycling infrastructure will be deprioritized. Urban sprawl will continue and get worse. Lanes will be widened but congestion will never be solved. Road-related injuries and fatalities will continue to soar (at least until automated driving is good enough, and common enough). Public spaces continue to dwindle and shrink, leaving people more isolated indoors. The environment will be in ever more strain due to this unsustainable lifestyle. Health costs continue to soar as the general health of the population declines due to sedentary lifestyles.
 
 But alas, I don't think these negative externalities are at the minds of those in power at Apple at all. To be fair, I don't think any private companies put much thought into negative externalities anyway. I guess the phrase 'With great power comes great responsibility' does not apply here. All I can hope then, is that the Apple Car faces too much of a technical and economic hurdle to either ever see the light of day, or be more successful than the Newton.
-
-
-
-
-
