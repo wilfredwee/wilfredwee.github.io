@@ -17,10 +17,6 @@ const IndexPage = ({ data }) => {
     <Layout>
       <h1>Welcome</h1>
       <p>Website is still under development. Slow progress.</p>
-      <p>
-        I'll be focusing more on writing content, and finishing my current
-        project.
-      </p>
       {filteredPosts.map(
         ({
           node: {
